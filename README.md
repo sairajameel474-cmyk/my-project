@@ -1,3 +1,3 @@
 # my-project
 This is my first Git Repository.
-It is good application.
+It is very good application.
